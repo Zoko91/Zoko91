@@ -9,7 +9,7 @@
     <a href="https://www.josephbeasse.fr">
       <img src="https://img.shields.io/badge/Portfolio-critical?style=for-the-badge" alt="Portfolio Badge" />
     </a>
-    <a href="https://josephbeasse.fr/CV:Resume_BEASSE_JOSEPH_ENG.pdf">
+    <a href="https://josephbeasse.fr/CV_BEASSE_Joseph_ENG.pdf">
       <img src="https://img.shields.io/badge/-Resume%2FCV-blueviolet?style=for-the-badge" alt="CV/Resume Badge" />
     </a>
   </div>
