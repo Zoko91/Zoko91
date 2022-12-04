@@ -13,7 +13,7 @@
     </a>
   </div>
   <br>
-  <img src="https://media.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif" width="35%"/>
+  <img src="https://media.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif" width="25%"/>
   
 </div>
 
