@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello there, I'm Joseph ! <img src="https://media.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif" width="4%"/>
+  <h1> Hello there, I'm Joseph ! 👋
   </h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/josephbeasse/">
@@ -12,5 +12,8 @@
       <img src="https://img.shields.io/badge/-Resume%2FCV-yellow?style=for-the-badge" alt="CV/Resume Badge" />
     </a>
   </div>
+  
+  <img src="https://media.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif" width="50%"/>
+  
 </div>
 
