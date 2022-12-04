@@ -1,6 +1,7 @@
 <div align="center">
-  <h1> Hello there, I'm Joseph 👋 !    <img src="https://media.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif" width="3%"/>
+  <h1> Hello there, I'm Joseph !    <img src="https://cdn3.emoji.gg/emojis/2090-moon.gif" width="30px"/>
   </h1>
+  <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/josephbeasse/">
       <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
