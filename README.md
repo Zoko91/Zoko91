@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello there, I'm Joseph ! <img src="https://i.gifer.com/9viJ.gif" width="30px"/>
+  <h1> Hello there, I'm Joseph ! <img src="https://media.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif" width="30px"/>
   </h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/josephbeasse/">
@@ -13,5 +13,4 @@
     </a>
   </div>
 </div>
-v
 
