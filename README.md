@@ -12,8 +12,8 @@
       <img src="https://img.shields.io/badge/-Resume%2FCV-yellow?style=for-the-badge" alt="CV/Resume Badge" />
     </a>
   </div>
-  
-  <img src="https://media.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif" width="50%"/>
+  <br>
+  <img src="https://media.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif" width="35%"/>
   
 </div>
 
