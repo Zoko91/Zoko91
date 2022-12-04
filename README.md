@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello there, I'm Joseph ! <img src="https://media.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif" width="5%"/>
+  <h1> Hello there, I'm Joseph ! <img src="https://media.tenor.com/G1VOo6fVsn4AAAAC/keyboard-type.gif" width="4%"/>
   </h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/josephbeasse/">
