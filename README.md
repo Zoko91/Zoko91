@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <div align="center">
   <h1> Hello there, I'm Joseph ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
@@ -15,5 +12,4 @@
       <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="CV/Resume Badge" />
     </a>
   </div>
-
 </div>
