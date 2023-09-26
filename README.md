@@ -3,7 +3,7 @@
          Hello there, I'm <span style="font-weight: bold;"> Joseph</span> !
    </div><br>
  <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
- 
+ <br>
   <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/josephbeasse/">
