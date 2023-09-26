@@ -1,5 +1,8 @@
 <div align="center">
-   Hello there, I'm Joseph !
+   <h1>
+         Hello there, I'm Joseph !
+   </h1>
+
  
   <br>
   <div id="badges">
