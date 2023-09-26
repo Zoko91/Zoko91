@@ -1,10 +1,10 @@
 <div align="center">
    <div>
-         Hello there, I'm Joseph !
+         Hello there, I'm Joseph ! &nbsp;   <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
 
    </div>
    <br>
-   <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
+
    <br>
          <hr>
    <br>
