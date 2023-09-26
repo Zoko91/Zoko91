@@ -1,10 +1,11 @@
 <div align="center">
    <div">
-         Hello there, I'm Joseph ! <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
-         <hr>
-   </div>
-   <br>
+         Hello there, I'm Joseph !
 
+   </div>
+   <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
+   <br>
+         <hr>
    <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/josephbeasse/">
