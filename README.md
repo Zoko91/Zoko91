@@ -3,6 +3,7 @@
          Hello there, I'm Joseph !
 
    </div>
+   <br>
    <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
    <br>
          <hr>
