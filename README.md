@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello there, I'm Joseph !    <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
+  <h1> Hello there, I'm Joseph !    
   </h1>
   <br>
   <div id="badges">
