@@ -1,7 +1,7 @@
 <div align="center">
-   <h4 style="padding: 10px; margin: 10px 0;">
+   <h2 style="padding: 10px; margin: 10px 0;">
          Hello there, I'm <span style="font-weight: bold;"> Joseph</span> !
-   </h4>
+   </h2>
    <br>
  <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
  <br>
