@@ -1,6 +1,5 @@
 <div align="center">
-   <div style="font-size: 26px;
-    font-weight: bold;
+   <div style="font-size: 30px;
     color: #333;
     padding: 10px;
     margin: 10px 0;">
