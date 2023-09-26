@@ -1,9 +1,9 @@
 <div align="center">
-   <div style="padding: 10px; margin: 10px 0;">
-         Hello there, I'm <span style="font-weight: bold;"> Joseph</span> !  <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
+   <div">
+         Hello there, I'm Joseph ! <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
    </div>
    <br>
-<hr>
+   <hr>
    <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/josephbeasse/">
