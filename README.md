@@ -1,6 +1,6 @@
 <div align="center">
    <div>
-         Hello there, I'm Joseph ! &nbsp;   <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
+         Hello there, I'm Joseph ! &nbsp;   <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="20px"/>
 
    </div>
          <hr>
