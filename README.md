@@ -1,9 +1,6 @@
 <div align="center">
-   <div style="font-size: 50px;
-    color: #333;
-    padding: 10px;
-    margin: 10px 0;">
-         Hello there, I'm Joseph ! <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
+   <div style="padding: 10px; margin: 10px 0;">
+         Hello there, I'm <span style="font-weight: bold;"> Joseph</span> ! <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
    </div>
 
  
