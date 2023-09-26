@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> Hello there, I'm Joseph !    <img src="https://cdn3.emoji.gg/emojis/2090-moon.gif" width="30px"/>
-  </h1>
+   Hello there, I'm Joseph !
+ 
   <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/josephbeasse/">
