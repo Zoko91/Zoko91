@@ -1,5 +1,5 @@
 <div align="center">
-   <div style="font-size: 30px;
+   <div style="font-size: 50px;
     color: #333;
     padding: 10px;
     margin: 10px 0;">
