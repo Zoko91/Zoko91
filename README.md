@@ -1,7 +1,11 @@
 <div align="center">
-   <h1>
-         Hello there, I'm Joseph !
-   </h1>
+   <div style="font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    padding: 10px;
+    margin: 10px 0;">
+         Hello there, I'm Joseph ! <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="25px"/>
+   </div>
 
  
   <br>
