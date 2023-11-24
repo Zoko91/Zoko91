@@ -1,7 +1,7 @@
 <div align="center">
-   <div>
+   <h3>
          Hello there, I'm Joseph ! &nbsp;   <img src="https://josephbeasse.fr/test/retrosunwave.gif" width="20px"/>
-   </div>
+   </h3>
   <hr>
   <div id="badges">
     <a href="https://www.linkedin.com/in/josephbeasse/">
