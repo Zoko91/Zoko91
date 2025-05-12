@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Portfolio-critical?style=for-the-badge" alt="Portfolio Badge" />
     </a>
     <-->
-    <a href="Resume.pdf">
+    <a href="CV_BEASSE_JOSEPH_ENG.pdf">
       <img src="https://img.shields.io/badge/-Resume%2FCV-blueviolet?style=for-the-badge" alt="CV/Resume Badge" />
     </a>
   </div>
