@@ -18,7 +18,7 @@
   <br>
 
   <p>
-    🚀 <i>Currently focusing on building impactful projects in private repositories.</i>
+    Currently focusing on building projects in private [codenames: Pulse, Tablo]</i>
   </p>
   
 </div>
