@@ -18,7 +18,7 @@
   <br>
 
   <p>
-    Currently focusing on building projects in private [codenames: Pulse, Tablo]</i>
+    Currently focusing on building projects in private</i>
   </p>
   
 </div>
